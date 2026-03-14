@@ -2,7 +2,7 @@
 
 ---
 
-This is a collection of resources, walkthroughs, and other helpful media. No LLMS were used in the creation of any of these resources, everything has been written by myself.
+This is a collection of resources, walkthroughs, and other helpful media. No LLMs were used in the creation of any of these resources, everything has been written by myself.
 
 ## OSINT Resources
 
