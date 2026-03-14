@@ -1,4 +1,4 @@
-//Privacy Ghost//Last Updated//2300Z MARCH 11, 2026//
+//Info Ghost//Last Updated//2300Z MARCH 11, 2026//
 //Raspberry Pi-hole//  
 //**BLUF**: This walkthrough will cover the required hardware, software, and configuration for installing a Pi-hole on a local network.//
 
