@@ -23,7 +23,7 @@ OSINT encompasses multiple methods for collecting, analyzing, and making decisio
 The [intelligence lifecycle](https://www.intelligence.gov/how-the-ic-works) is comprised of 5 steps (*or 6 depending on your source*):
 
 1. Planning & Direction
-	- Who is the target, why are you targeting them, when are you going to do collect this information.
+	- Who is the target, why are you targeting them, when are you going to start collecting information on this target.
 	- Basic Who, What, When, Where, Why is all identified in this phase.
 2. Collection
 	- Gathering information from publicly available data this can include; [MASINT](https://en.wikipedia.org/wiki/Measurement_and_signature_intelligence)/[SIGINT](https://en.wikipedia.org/wiki/Signals_intelligence)/[HUMINT](https://en.wikipedia.org/wiki/Human_intelligence_(intelligence_gathering))/[GEOINT](https://en.wikipedia.org/wiki/Geospatial_intelligence) that you can access. 
