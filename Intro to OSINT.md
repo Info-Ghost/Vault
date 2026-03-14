@@ -230,9 +230,13 @@ Analyst: **Echo**
 ##  Sources, and Research - 
 
 https://en.wikipedia.org/
+
 https://web.archive.org
+
 https://www.intelligence.gov/
+
 https://www.reddit.com
+
 https://www.youtube.com/
 
 #### Links:  
