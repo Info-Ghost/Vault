@@ -5,7 +5,7 @@ Here is a collection of all the resources I have compiled. No LLMS were used in 
 ## OSINT Resources
 
 - [Intro to OSINT](https://github.com/Info-Ghost/Vault/blob/main/Intro%20to%20OSINT.md) 
-- [Search Engine Operators + Resources](url)
+- [Search Engine Operators + Resources](https://github.com/Info-Ghost/Vault/blob/main/Search%20Engine%20Operators%20and%20Resources.md)
 - [Sock Puppet Accounts]()
 
 ## Network Security
