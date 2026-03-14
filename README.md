@@ -4,6 +4,13 @@
 
 This is a collection of resources, walkthroughs, and other helpful media. No LLMs were used in the creation of any of these resources, everything has been written by myself.
 
+As I continue to learn, experiment, and better understand different tools/software/hardware, I will include them here.
+
+### Comming Soon:
+- Meshtastic/Mesh Wi-Fi networks
+- Self-Hosting walkthrough (scalable)
+
+
 ## OSINT Resources
 
 - [OSINT Beginner Guide](https://github.com/Info-Ghost/Vault/blob/main/Intro%20to%20OSINT.md) 
