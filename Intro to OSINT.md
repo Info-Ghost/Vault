@@ -5,6 +5,8 @@
 
 # //OVERVIEW//
 
+![](https://i.imgur.com/XeQe7lf.png)
+
 ## What is OSINT? (Open-Source Intelligence)
 
 OSINT encompasses multiple methods for collecting, analyzing, and making decisions about data accessible in **publicly** available sources to be used in an intelligence context. The term **"open"** refers to overt, publicly available resources.
