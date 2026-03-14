@@ -1,4 +1,4 @@
- //Privacy Ghost//Last Updated//1230Z MARCH 14, 2025//  
+//Privacy Ghost//Last Updated//1230Z MARCH 14, 2025//  
 //Introduction to OSINT//  
 //**BLUF**: This walkthrough will cover the intelligence lifecycle, sock puppet accounts, collecting and compiling information, and putting that information into an organized report.//
 
@@ -239,40 +239,58 @@ https://www.youtube.com/
 
 GeoGuessr:
 	https://www.geoguessr.com/
+
 GeoGuessr guide:
 	https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+
 GEOINT:
 	https://en.wikipedia.org/wiki/Geospatial_intelligence
+
 Hiding from the Internet:
 	https://www.amazon.com/Hiding-Internet-Eliminating-Personal-Information/dp/1500397814
+
 HUMINT:
 	https://en.wikipedia.org/wiki/Human_intelligence_(intelligence_gathering)
+
 Hunter.io
 	https://Hunter.io/
+
 Intelligence life cycle:
 	https://www.intelligence.gov/how-the-ic-works
+
 Jake Creps Blog:
 	https://web.archive.org/web/20200626065212/https://jakecreps.com/2018/11/02/sock-puppets/
+
 MASINT:
 	https://en.wikipedia.org/wiki/Measurement_and_signature_intelligence
+
 OPSEC:
 	https://en.wikipedia.org/wiki/Operations_security
+
 Pareto Principle:
 	https://en.wikipedia.org/wiki/Pareto_principle
+
 Phonebook.cz
 	https://phonebook.cz/ 
+
 Proton Mail:
 	https://proton.me/mail
+
 Reddit Sock Puppet post:
 	https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
+
 Reddit EXIF viewers post:
 	https://www.reddit.com/r/photography/comments/1l0v0oz/what_are_the_best_exif_viewerseditors/
+
 SIGINT:
 	https://en.wikipedia.org/wiki/Signals_intelligence
+
 Sock Puppets:
 	https://en.wikipedia.org/wiki/Sock_puppet_account
+
 The Cyber Mentor:
 	https://www.youtube.com/watch?v=qwA6MmbeGNo
+
 Voila Norbert
 	https://voilanorbert.com/
 
