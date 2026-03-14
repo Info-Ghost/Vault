@@ -23,7 +23,7 @@ By using a Pi-hole on your network, you can block ads over IPV4 and IPV6. Ad tra
 ### Required Hardware:
 
 - [Raspberry Pi Zero 2w](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)  ¹* 
-- USB-C cable 
+- MicroUSB cable 
 - [MicroSD card](https://www.amazon.com/SanDisk-Endurance-microSDXC-Adapter-Monitoring/dp/B07NY23WBG/ref=sr_1_1?crid=5P9J3H3O4WNP&sprefix=Sanddisk+high+enduran%2Caps%2C195&sr=8-1)⁷
 
 ### Required Software:
