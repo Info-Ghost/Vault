@@ -75,7 +75,7 @@ Here is a great blog from garretmickey that **literally walks you through what t
 
 ---
 
-Lastly, see the [[Sock Puppet Resources]] for a list useful links for account set up.
+Lastly, see the Sock Puppet Resources.md for a list useful links for account set up.
 
 ---
 
