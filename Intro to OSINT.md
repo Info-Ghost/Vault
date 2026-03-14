@@ -90,24 +90,43 @@ ___
 
 
 `site:url.com`
+
 ╰➤ Returns results of just a specified website. *ex Halo 3 Red versus Blue site:roosterteeth.com*
+
 `AND`
+
 ╰➤ Returns results with two specified inputs *ex. Halo 3 AND Red versus Blue site:roosterteeth.com.*
+
 `OR`
+
 ╰➤ Returns results between two specified inputs *ex. Halo 3 OR Red versus Blue site:roosterteeth.com.*
+
 `""`
+
 ╰➤ Returns results in order of the specified text *ex. "Halo 3 Red versus Blue" site:roosterteeth.com.
+
 `*`
+
 ╰➤ Returns a wild card *ex. Halo 3 `*`  site:roosterteeth.com.*
+
 `filetype:`
+
 ╰➤ pdf/xlsx/docx etc.  
+
 `-`
+
 ╰➤ Used to remove a search input. *ex. site:roosterteeth.com -www*
+
 `intext:`
+
 ╰➤ Used to search for specific text on a webpage. *ex. site:roosterteeth.com intext:Halo*
+
 `inurl:`
+
 ╰➤ Used to search for specific text inside of a sites url. *ex. site:roosterteeth.com inurl:Halo*
+
 `intitle:`
+
 ╰➤ Used to search for specific text in the title of a web page. *ex. site:roosterteeth.com intitle:Halo*
 
 ---
@@ -125,6 +144,7 @@ A lot of details can be found in metadata such as:
 - Date
 
 Metadata can be extracted at this site:
+
 ╰➤ https://exifeditor.io -- Browser-based, fully private, free!
 	From a post on [reddit](https://www.reddit.com/r/photography/comments/1l0v0oz/what_are_the_best_exif_viewerseditors/):
 	- 100% browser-based, works instantly — no signup, no installation.
