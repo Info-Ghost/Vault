@@ -13,7 +13,7 @@ As I continue to learn, experiment, and better understand different tools/softwa
 
 ## OSINT Resources
 
-- [OSINT Beginner Guide](https://github.com/Info-Ghost/Vault/blob/main/Intro%20to%20OSINT.md) 
+- [OSINT Beginner Guide 🚧**WIP**🚧](https://github.com/Info-Ghost/Vault/blob/main/Intro%20to%20OSINT.md) 
 - [Search Engine Operators + Resources](https://github.com/Info-Ghost/Vault/blob/main/Search%20Engine%20Operators%20and%20Resources.md)
 - [Sock Puppet Accounts](https://github.com/Info-Ghost/Vault/blob/main/Sock%20Puppet%20Resources.md)
 
