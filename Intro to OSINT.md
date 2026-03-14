@@ -10,13 +10,10 @@
 ## What is OSINT? (Open-Source Intelligence)
 
 OSINT encompasses multiple methods for collecting, analyzing, and making decisions about data accessible in **publicly** available sources to be used in an intelligence context. The term **"open"** refers to overt, publicly available resources.
-# //SECTION 1//
 
 ---
-## Intro to OSINT
 
----
-### The Intelligence Lifecycle
+### The Intelligence Lifecycle:
 
 ![The Intelligence Lifecycle](https://i.imgur.com/phNMCTr.png)
 
@@ -35,7 +32,7 @@ The [intelligence lifecycle](https://www.intelligence.gov/how-the-ic-works) is c
 	- Finished intelligence is then delivered to whoever your recipient is. Finished intelligence can lead to requests for additional information, which triggers the cycle again.
 
 ---
-### Sock Puppet Accounts
+### Sock Puppet Accounts:
 
 What is a Sock Puppet Account?
 
@@ -84,11 +81,11 @@ Lastly, see the [Sock Puppet Resources.md](Sock Puppet Resources.md2520Resources
 🎉 **Congrats!** You are all done with the Sock Puppet Accounts! 🎉 You can close this section.
 
 ---
-## Collecting Information
+## Collecting Information:
 
 ___
 ### How to Search for Information:
-####  [[Search Engine Operators and Resources]]
+####  [[Search Engine Operators and Resources]]:
 
 
 `site:url.com`
@@ -132,10 +129,10 @@ ___
 ╰➤ Used to search for specific text in the title of a web page. *ex. site:roosterteeth.com intitle:Halo*
 
 ---
-### Image OSINT:
+### Image OSINT Tools:
 
 ---
-#### Viewing EXIF Data
+#### Viewing EXIF Data:
 
 *What is EXIF data?*
 **Exchangeable image file format** (`.JPG`, `.TIF`, `.WAV`, `.PNG`,`.WEBP`)
@@ -160,7 +157,7 @@ From a post on [reddit](https://www.reddit.com/r/photography/comments/1l0v0oz/wh
 - Works great on mobile and desktop.
 
 ---
-#### Physical Location OSINT
+#### Physical Location OSINT:
 
 Looking into a target location via satellite data/google maps/street view to form a complete picture of any valuable information. 
 
@@ -182,10 +179,10 @@ A massive guide blog post can be found [here](https://somerandomstuff1.wordpress
 ---
 
 
-### Email Address OSINT
+### Email Address OSINT Tools:
 
 ---
-#### Email Address Search Tools
+#### Email Address Search Tools:
 
 There are **a lot** of ways to find email addresses here are just a few that you can use to start searching 👻
 
@@ -196,14 +193,14 @@ There are **a lot** of ways to find email addresses here are just a few that you
 ╰➤ https://voilanorbert.com/
 
 ---
-#### Email Verification 
+#### Email Verification Tools:
 
 Free tool to check if an email address actually exists. 
 
 ╰➤ https://tools.verifyemailaddress.io/
 
 ---
-### Password OSINT
+### Password OSINT Tools:
 
 When looking for passwords via OSINT we are specifically looking for breached credentials.
 
