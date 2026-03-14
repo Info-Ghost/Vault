@@ -43,4 +43,5 @@
 ## Search Engine Tools:
 
 [Google Advanced Search](https://www.google.com/advanced_search)
+
 ╰➤ If you having difficulty understanding how to use the operators themselves in your searches, google has a good "plug and play" option that does it for you!
