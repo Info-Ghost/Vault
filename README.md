@@ -1,6 +1,8 @@
-# Welcome to Info Ghost
+# Welcome to the Info Ghost Vault
 
-Here is a collection of all the resources I have compiled. No LLMS were used in the creation of any of these resources, everything has been written by myself.
+---
+
+This is a collection of resources, walkthroughs, and other helpful media. No LLMS were used in the creation of any of these resources, everything has been written by myself.
 
 ## OSINT Resources
 
