@@ -16,7 +16,7 @@ OSINT encompasses multiple methods for collecting, analyzing, and making decisio
 ---
 ### The Intelligence Lifecycle
 
-![The Intelligence Lifecycle](https://imgur.com/a/vkoeQxW)
+![The Intelligence Lifecycle](https://i.imgur.com/phNMCTr.png)
 
 The [intelligence lifecycle](https://www.intelligence.gov/how-the-ic-works) is comprised of 5 steps (*or 6 depending on your source*):
 
