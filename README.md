@@ -5,9 +5,9 @@ Here is a collection of all the resources I have compiled. No LLMS were used in 
 ## OSINT Resources
 
 - [Intro to OSINT](https://github.com/Info-Ghost/Vault/blob/main/Intro%20to%20OSINT.md) 
-- https://github.com/Info-Ghost/Vault/edit/main/README.md
-- https://gihub.com/Info-Ghost/Vault/edit/main/README.md
+- [Search Engine Operators + Resources](url)
+- [Sock Puppet Accounts]()
 
 ## Network Security
 
-[Raspberry Pi-Hole Walkthrough](url)
+[Raspberry Pi-Hole Walkthrough](https://github.com/Info-Ghost/Vault/blob/main/Pi-Hole%20Walkthrough.md)
