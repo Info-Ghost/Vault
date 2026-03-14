@@ -45,7 +45,7 @@ The point of wanting to use a sock puppet is to have no ties back to you while c
 
 #### Creating Effective Sock Puppets
 
-You should not be creating Sock Puppets on **your IP**. You don't want these accounts to ever be tied back to you. You can use a VPN but if some sites want additional verification, then you are SOL since you can't provide that, being on a fake account. If you are using a VPN keep the VPN in the area of where your Sock Puppet account actually "lives".
+You should not be creating Sock Puppets on **your IP**. You don't want these accounts to ever be tied back to you. If you are using a VPN keep the VPN in the area of where your Sock Puppet account actually "lives".
 
 **Jake Creps** has a great blog on creating Sock Puppet accounts, unfortunately that site is no longer available, however I found an instance on the Way Back Machine which you can access and read his full article [here](https://web.archive.org/web/20200626065212/https://jakecreps.com/2018/11/02/sock-puppets/).
 
