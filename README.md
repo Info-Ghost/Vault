@@ -4,7 +4,8 @@
 
 This is a collection of resources, walkthroughs, and other helpful media. No LLMs were used in the creation of any of these resources, everything has been written by myself.
 
-[!NOTE] As I continue to learn, experiment, and better understand different tools/software/hardware, I will include them here.
+> [!NOTE]
+> As I continue to learn, experiment, and better understand different tools/software/hardware, I will include them here.
 
 ### Comming Soon:
 - Meshtastic/Mesh Wi-Fi networks
