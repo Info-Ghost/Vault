@@ -5,6 +5,8 @@
 
 # //OVERVIEW//
 
+![[]](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.raspberrypi.com%2Ftutorials%2Ftutorials%2Fimages%2FMAGPI_ROUTER_002-800x533.jpg&sp=1773499778Tccc4f29d028e110b1573bc2613d3f96498f81914279624af869597b4339860b0)
+
 ## What is a Pi-hole?
 
 Pi-hole is a **free, open-source, and privacy respecting software**.
