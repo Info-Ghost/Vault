@@ -227,7 +227,7 @@ Analyst: **Echo**
 *No LLMs were used in the creation of this document.*
 # //END DOCUMENT// 
 
-##  Sources, and Research - 
+##  Sources, and Research:
 
 https://en.wikipedia.org/
 
