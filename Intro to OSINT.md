@@ -77,7 +77,7 @@ Here is a great blog from garretmickey that **literally walks you through what t
 
 ---
 
-Lastly, see the [Sock Puppet Resources.md](https://github.com/Info-Ghost/Vault/blob/main/Sock%2520Puppet%2520Resources.md) for a list useful links for account set up.
+Lastly, see the [Sock Puppet Resources.md](Sock Puppet Resources.md2520Resources.md) for a list useful links for account set up.
 
 ---
 
