@@ -10,4 +10,4 @@ Here is a collection of all the resources I have compiled. No LLMS were used in 
 
 ## Network Security
 
-[Raspberry Pi-Hole Walkthrough](https://github.com/Info-Ghost/Vault/blob/main/Pi-Hole%20Walkthrough.md)
+- [Raspberry Pi-Hole Walkthrough](https://github.com/Info-Ghost/Vault/blob/main/Pi-Hole%20Walkthrough.md)
