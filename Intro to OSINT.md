@@ -151,13 +151,13 @@ Metadata can be extracted at this site:
 
 From a post on [reddit](https://www.reddit.com/r/photography/comments/1l0v0oz/what_are_the_best_exif_viewerseditors/):
 
-	- 100% browser-based, works instantly — no signup, no installation.
+- 100% browser-based, works instantly — no signup, no installation.
 
-	- Fully client-side: images never leave your browser (excellent privacy).
+- Fully client-side: images never leave your browser (excellent privacy).
 
-	- Full EXIF editing support, with raw hexdump viewer for non-standard or corrupted EXIF data.
+- Full EXIF editing support, with raw hexdump viewer for non-standard or corrupted EXIF data.
 
-	- Works great on mobile and desktop.
+- Works great on mobile and desktop.
 
 ---
 #### Physical Location OSINT
