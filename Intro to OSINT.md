@@ -224,8 +224,8 @@ ___
 
 Analyst: **Echo**  
 
-*No LLMs were used in the creation of this walkthrough.*
-# //END WALKTHROUGH// 
+*No LLMs were used in the creation of this document.*
+# //END DOCUMENT// 
 
 ##  Sources, and Research - 
 
