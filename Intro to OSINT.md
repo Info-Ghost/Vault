@@ -1,4 +1,4 @@
- //Privacy Ghost//Last Updated//1100Z MARCH 14, 2025//  
+ //Privacy Ghost//Last Updated//1230Z MARCH 14, 2025//  
 //Introduction to OSINT//  
 //**BLUF**: This walkthrough will cover the intelligence lifecycle, sock puppet accounts, collecting and compiling information, and putting that information into an organized report.//
 
@@ -183,7 +183,9 @@ A massive guide blog post can be found [here](https://somerandomstuff1.wordpress
 There are **a lot** of ways to find email addresses here are just a few that you can use to start searching 👻
 
 ╰➤ https://Hunter.io/
+
 ╰➤ https://phonebook.cz/ 
+
 ╰➤ https://voilanorbert.com/
 
 ---
@@ -199,12 +201,15 @@ Free tool to check if an email address actually exists.
 When looking for passwords via OSINT we are specifically looking for breached credentials.
 
 **Dehashed**: a powerful data breech detection tool but, this tool is not **free**.
+
 ╰➤ https://www.dehashed.com/search#searchPricing
 
 **Logoutify** (formerly breachdirectory)  unfortunately no longer a free tool :(
+
 ╰➤ [https://logoutify.com](https://logoutify.com/)
 
 **Breach Parse**: a tool for parsing breached passwords. Includes download list.
+
 ╰➤ https://github.com/hmaverickadams/breach-parse
 
 
