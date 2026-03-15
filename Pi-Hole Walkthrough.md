@@ -102,7 +102,8 @@ The Pi-hole software will now run and add the necessary packages.
 **Step 7:** Once completed you’ll be greeted to a blue window. This is the **Pi-hole Automated Installer**. 
 
 **Step 8:** Follow the on screen prompts until you get to the section on setting a **Static IP** address. 
-- *This can be done just in your network settings on your device.*
+> [!NOTE] 
+> Log into your routers admin panel *ex. 10.0.0.1/admin* and check to see if your Pi-hole is listed as an active connection.
 
 **Step 9:** Once you have set the Static IP you can continue with the installer. For your upstream DNS provider, use the **Cloudflare** option.
 
