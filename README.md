@@ -8,6 +8,7 @@ This is a collection of resources, walkthroughs, and other helpful media. No LLM
 > As I continue to learn, experiment, and better understand different tools/software/hardware, I will include them here.
 
 ### Comming Soon:
+- Intro to Networking
 - Meshtastic/Mesh Wi-Fi networks
 - Self-Hosting walkthrough (scalable)
 
