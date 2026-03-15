@@ -87,7 +87,7 @@ By using a Pi-hole on your network, you can block ads over IPV4 and IPV6. Ad tra
 **Step 4:** When prompted with *”Are you sure you want to continue connecting (Yes/No)?”* Type **Yes**
 
 > [!WARNING] 
-> Recently as of 2026, multiple users have reported having difficulty connecting via Wi-Fi/maintaining connection. I highly recommend getting a MicroUSB to Ethernet adapter and hardwire directly into your router.
+> Recently as of 2026, multiple users have reported having difficulty connecting via Wi-Fi/maintaining connection. If you are getting an error in your terminal that you I highly recommend getting a MicroUSB to Ethernet adapter and hardwire directly into your router. 
 
 **Step 5:** Enter the password you set previously.
 
