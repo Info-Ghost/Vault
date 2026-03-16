@@ -11,7 +11,7 @@ A network refers to two or more connected devices that share data and resources.
 
 This can be accomplished by hardwiring devices together to what’s called a **switch**. 
 
-![](https://imgur.com/FXQ5iaw)
+![](https://i.imgur.com/FXQ5iaw.png)
 
 **or**
 
