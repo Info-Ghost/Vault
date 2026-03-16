@@ -23,6 +23,7 @@ This is a collection of resources, walkthroughs, and other helpful media. No LLM
 
 ## Network Security
 
+- Basics of Networking
 - [Raspberry Pi-Hole Walkthrough](https://github.com/Info-Ghost/Vault/blob/main/Pi-Hole%20Walkthrough.md)
 
 ## Social Networking Accounts:
