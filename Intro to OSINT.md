@@ -1,4 +1,4 @@
-//Privacy Ghost//Last Updated//1527Z MARCH 14, 2026//  
+//Info Ghost//Last Updated//1527Z MARCH 14, 2026//  
 //Introduction to OSINT//  
 //**BLUF**: This walkthrough will cover the intelligence lifecycle, sock puppet accounts, collecting and compiling information, and putting that information into an organized report.//
 
