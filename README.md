@@ -10,7 +10,7 @@ This is a collection of resources, walkthroughs, and other helpful media. No LLM
 
 ## OSINT Resources
 
-- [OSINT Beginner Guide 🚧**WIP**🚧](https://github.com/Info-Ghost/Vault/blob/main/Intro%20to%20OSINT.md) 
+- [Basics for OSINT](https://github.com/Info-Ghost/Vault/blob/main/Intro%20to%20OSINT.md) 
 - [Search Engine Operators + Resources](https://github.com/Info-Ghost/Vault/blob/main/Search%20Engine%20Operators%20and%20Resources.md)
 - [Sock Puppet Accounts](https://github.com/Info-Ghost/Vault/blob/main/Sock%20Puppet%20Resources.md)
 - [OSINT Framework](https://osintframework.com)
