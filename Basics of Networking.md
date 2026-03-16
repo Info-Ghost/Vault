@@ -69,6 +69,7 @@ Not all Ethernet cables are created equal so how can you choose the right Ethern
 | CAT6  | 10Gb/s (up to 55m)                        |
 | CAT6a | 10Gb/s (up to 100m)                       |
 | CAT7  | 100Gb/s (up to 15m) // 40Gb/s (up to 50m) |
+
 For most people the CAT5e is the golden standard for SOHO networks. 
 
 The connector at the end of a CAT cable is call an **RJ45** 
