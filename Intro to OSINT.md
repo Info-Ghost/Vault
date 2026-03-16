@@ -5,7 +5,7 @@
 
 # //OVERVIEW//
 
-![](https://i.imgur.com/XeQe7lf.png)
+![ ](https://i.imgur.com/XeQe7lf.png)
 
 ## What is OSINT? (Open-Source Intelligence)
 
