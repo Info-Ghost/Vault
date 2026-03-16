@@ -41,7 +41,7 @@ Protocols are constantly working together to communicate and transfer data
 **Enterprise Network** 
  - These networks are very large and can span cities, states, even globally.
 
-**Internet/Service Provider (ISP) Network
+**Internet/Service Provider (ISP) Network**
 - Offer services to connect different customers together. 
 
 **LAN** - Local Area Network
